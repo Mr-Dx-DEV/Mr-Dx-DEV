@@ -3,7 +3,7 @@
   😮 You found me! 🎃 
 </details>
 
-[![Buy Me a Coffee](https://bizcolumnist.com/wp-content/uploads/2022/12/bmc-full-logo.png)](https://www.buymeacoffee.com/dxfivem)
+[![Buy Me a Coffee](https://img.shields.io/badge/Pizza-BuyMeACoffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/dxfivem)
 [![Sub on Patreon](https://img.shields.io/badge/Support-Patreon-%23FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/fivem)
 
 
