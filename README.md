@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=180&section=header&text=Tanvir%20Anjum%20Neon&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FiveM%20Expert%20%E2%80%A2%206%20Years%20%E2%80%A2%20Server%20%26%20IT%20Support&descAlignY=58&descSize=18" width="100%" alt="Tanvir Anjum Neon" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=130&section=header" width="100%" alt="" />
+
+<h1 align="center">Hi, I'm Tanvir Anjum Neon 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=760&lines=FiveM+Expert+(6+Yrs)+%7C+QBCore%2C+Qbox+%26+ESX+Lua+Developer;VPS%2C+SQL%2C+Windows+Server+%26+IT+Support;Learning+Linux%2C+DevOps+%26+Cloud" alt="FiveM Expert (6 Yrs) | QBCore, Qbox & ESX Lua Developer | VPS, SQL, Windows Server & IT Support" />
