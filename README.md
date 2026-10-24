@@ -144,7 +144,7 @@ English (native/bilingual) · Bengali (native) · Hindi (conversational)
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,java,c,py,flutter,dart,php,laravel,tailwind,mysql,sqlite,firebase,docker,linux,aws,azure,cloudflare,nginx,apache,git,github,windows,discord,wordpress,postman,raspberrypi,ps,ai,ae,pr,au&perline=12" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,java,c,py,flutter,dart,php,laravel,tailwind,mysql,sqlite,firebase,docker,linux,aws,azure,cloudflare,nginx,git,github,windows,discord,wordpress,postman,raspberrypi,ps,ai,ae,pr,au&perline=12" alt="Tech stack icons" />
 </p>
 
 <details>
