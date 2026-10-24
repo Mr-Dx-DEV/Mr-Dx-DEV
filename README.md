@@ -1,6 +1,40 @@
 # 💫 About Me:
 🔭 I’m currently working at FiveM as a Server Developer<br>🌱 I’m currently learning more on Cloud Systems Administrator Practices<br>💬 Ask me about Go, AWS & Cloud Systems<br>📫 How to reach me: www.tanviranjumneon.dev<br>⚡ Fun fact: Big Fan of the ⚡ emoji
 
+### FiveM Expert (6 Yrs) | QBCore, Qbox & ESX Lua Developer | VPS, SQL, Windows Server & IT Support
+
+FiveM expert with 6 years of experience building, fixing and running roleplay servers, plus hands-on server and IT support: VPS and Windows servers, SQL databases and Discord communities. Currently learning Linux, DevOps and cloud systems.
+
+> *"My goal is to become the elusive phantom of programming, weaving my expertise and ingenuity into the very fabric of each project I touch."*
+
+**🛠️ What I do**
+- **FiveM development:** server setup and migration on QBCore, Qbox, ESX and QBUS, Lua scripting, custom jobs, items and phone apps, bug fixing, FXServer crash and connection issues, MLOs, vehicles and txAdmin
+- **Servers and IT support:** VPS and Windows server setup, MySQL/MariaDB databases, Discord server setup and management, PC hardware and remote technical support
+- **Creative work:** video editing, photo editing and poster design
+
+**🏆 Experience highlights**
+- Freelance FiveM Server Developer & Technical Support (Sep 2020 – present): clients on Fiverr, Upwork and direct work in the USA, UK and Germany
+- Second main developer: VIVID Roleplay USA, Hearts Of Chicago Roleplay USA and The Bay Roleplay USA
+- Lead developer: vLife Roleplay Bangladesh · Solo build: Black Dimond Roleplay USA (a 100-player server)
+- B.Sc. in Computer Science, North South University
+
+**📂 Featured projects**
+
+| Project | What it is |
+|---|---|
+| [Bangladesh Roleplay Server](https://github.com/Mr-Dx-DEV/NSU_CSE499-Bangladesh_Roleplay_Server) | NSU CSE499 capstone: a complete GTA V roleplay server on FiveM and Qbox |
+| [Text to Voice Platform](https://github.com/Mr-Dx-DEV/Text-to-Voice-Platform) | Multi-language text-to-speech with PDF, DOC, PPTX and image processing (Python) |
+| [Family Hisab](https://github.com/Mr-Dx-DEV/Family-Hisab) | Offline household expense tracker for Android (Flutter/Dart) |
+| [NSU Mini Campus Network](https://github.com/Mr-Dx-DEV/NSU-Mini-Campus-Network) | Three-department campus network in Cisco Packet Tracer (CSE438L) |
+| [STM32 Temp & Humidity Monitor](https://github.com/Mr-Dx-DEV/STM32-DHT11-OLED-Temp-Monitor) | DHT11 sensor, OLED display and LED warning on an STM32 (C) |
+| [Essential HUD script](https://github.com/Mr-Dx-DEV/Essential-HUD-script-for-RP-servers) | HUD script for FiveM roleplay servers |
+
+## 💼 Hire me:
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e1089bdf8fb4c30d) 
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/tanvir_anjum_n) 
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?logo=freelancer&logoColor=white)](https://www.freelancer.com/u/TAneon) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ta-neon) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Dx-DEV&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Dx-DEV" /> </p>
 
 ## 🌐 Socials:
@@ -17,6 +51,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dx_fivem) 
 
 # 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=flat&logo=azuredevops&logoColor=white&color=%230078D7) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
