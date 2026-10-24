@@ -1,7 +1,15 @@
+<h1 align="center">Hi, I'm Tanvir Anjum Neon 👋</h1>
+<h3 align="center">FiveM Expert (6 Yrs) | QBCore, Qbox & ESX Lua Developer | VPS, SQL, Windows Server & IT Support</h3>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01e1089bdf8fb4c30d"><img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white" alt="Upwork"></a>
+  <a href="https://www.fiverr.com/tanvir_anjum_n"><img src="https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white" alt="Fiverr"></a>
+  <a href="https://www.freelancer.com/u/TAneon"><img src="https://img.shields.io/badge/Freelancer-29B2FE?logo=freelancer&logoColor=white" alt="Freelancer"></a>
+  <a href="https://linkedin.com/in/ta-neon"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working at FiveM as a Server Developer<br>🌱 I’m currently learning more on Cloud Systems Administrator Practices<br>💬 Ask me about Go, AWS & Cloud Systems<br>📫 How to reach me: www.tanviranjumneon.dev<br>⚡ Fun fact: Big Fan of the ⚡ emoji
-
-### FiveM Expert (6 Yrs) | QBCore, Qbox & ESX Lua Developer | VPS, SQL, Windows Server & IT Support
 
 FiveM expert with 6 years of experience building, fixing and running roleplay servers, plus hands-on server and IT support: VPS and Windows servers, SQL databases and Discord communities. Currently learning Linux, DevOps and cloud systems.
 
