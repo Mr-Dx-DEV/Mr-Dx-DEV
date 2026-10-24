@@ -8,8 +8,10 @@
   <a href="https://linkedin.com/in/ta-neon"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+<p align="center">📍 Dhaka / Jhenaidah, Bangladesh (GMT+6) · 🗣️ English, Bengali, Hindi · 🎓 B.Sc. Computer Science, NSU · ⭐ 4.6/5 on Fiverr (8 reviews) · 🟢 Open to freelance work</p>
+
 # 💫 About Me:
-🔭 I’m currently working at FiveM as a Server Developer<br>🌱 I’m currently learning more on Cloud Systems Administrator Practices<br>💬 Ask me about Go, AWS & Cloud Systems<br>📫 How to reach me: www.tanviranjumneon.dev<br>⚡ Fun fact: Big Fan of the ⚡ emoji
+🔭 I’m currently working at FiveM as a Server Developer<br>🌱 I’m currently learning more on Cloud Systems Administrator Practices<br>💬 Ask me about Go, AWS & Cloud Systems<br>📫 How to reach me: www.tanviranjumneon.dev<br>⚡ Fun fact: Big Fan of the ⚡ emoji<br>🌐 Portfolio website: [neon-dev.vercel.app](https://neon-dev.vercel.app)
 
 FiveM expert with 6 years of experience building, fixing and running roleplay servers, plus hands-on server and IT support: VPS and Windows servers, SQL databases and Discord communities. Currently learning Linux, DevOps and cloud systems.
 
@@ -37,6 +39,89 @@ FiveM expert with 6 years of experience building, fixing and running roleplay se
 | [STM32 Temp & Humidity Monitor](https://github.com/Mr-Dx-DEV/STM32-DHT11-OLED-Temp-Monitor) | DHT11 sensor, OLED display and LED warning on an STM32 (C) |
 | [Essential HUD script](https://github.com/Mr-Dx-DEV/Essential-HUD-script-for-RP-servers) | HUD script for FiveM roleplay servers |
 
+## 🛒 Services & pricing
+
+| Service | Where | Price |
+|---|---|---|
+| [Fix FiveM server bugs, crashes and lag, and optimize performance](https://www.fiverr.com/tanvir_anjum_n/fix-optimize-and-develop-your-fivem-server) | Fiverr | From $10 |
+| [Set up an ESX, QBCore or Qbox FiveM server with full configuration](https://www.fiverr.com/tanvir_anjum_n/fivem-server-fivemscript-fivemdeveloper-fivemserver-qbcore-qbox-ox-inventory) | Fiverr | From $50 |
+| [Custom QBCore FiveM RP server built to your needs, 4.0-style UI](https://www.upwork.com/services/product/development-it-a-qbcore-fivem-rp-server-with-nopixel-4-0-style-ui-ready-to-launch-2113338347211050193) | Upwork | From $90 |
+| [Optimized custom QBUS FiveM server with cars and clothing packs](https://www.upwork.com/services/product/development-it-an-optimized-custom-qbus-fivem-server-with-cars-and-clothing-packs-2113339451035061892) | Upwork | From $120 |
+| [QBUS FiveM RP server customized for you, with 500+ cars and updates](https://www.upwork.com/services/product/development-it-fivem-roleplay-qbus-server-with-latest-all-scripts-1607561862427426816) | Upwork | From $180 |
+| [Premium FiveM RP server set up and customized for your community](https://www.upwork.com/services/product/development-it-a-full-premium-fivem-rp-server-with-jobs-heists-and-businesses-2113335895059684749) | Upwork | From $299 |
+| [Ready-made FiveM servers and scripts](https://buymeacoffee.com/dxfivem/extras) | Buy Me a Coffee shop | See shop |
+| Hourly FiveM, server and IT support work | [Upwork](https://www.upwork.com/freelancers/~01e1089bdf8fb4c30d) · [Freelancer](https://www.freelancer.com/u/TAneon) | Message me |
+
+## 🧑‍💻 Experience
+
+| Role | Company / project | Dates |
+|---|---|---|
+| FiveM Server Developer & Technical Support | Self-employed (freelance): Fiverr since Jan 2022, Upwork since Sep 2022, and direct clients | Sep 2020 – Present |
+| Second Main FiveM Developer | VIVID Roleplay USA | May 2024 – Jan 2026 |
+| Second Main FiveM Developer | Hearts Of Chicago Roleplay USA | Nov 2024 – Dec 2025 |
+| Second Main FiveM Developer | The Bay Roleplay USA | Sep 2024 – Dec 2025 |
+| Lead FiveM Developer | vLife Roleplay Bangladesh | Jul 2023 – Dec 2025 |
+| FiveM Developer (solo build, 100-player server) | Black Dimond Roleplay USA | Mar 2023 – Aug 2024 |
+| Video Editor | Personal YouTube channel ([Dx FiveM](https://www.youtube.com/@dx_fivem)) | Sep 2021 – Present |
+| Freelance App Developer | Own Flutter/Android apps on Google Play | Jul 2021 – Oct 2022 |
+| E-Learning Manager | Ethically Hacking | Sep 2019 – Jun 2026 |
+
+Also: two years helping with PC builds and BTC/Ethereum mining setups, over three years running my own GPU mining rigs, and a 1,500-member Discord community I built and support.
+
+## 🎓 Education
+
+| School | Qualification | Years |
+|---|---|---|
+| North South University | B.Sc. in Computer Science | 2021 – 2025 |
+| Keshab Chandra College | Higher Secondary Certificate (HSC), Science, grade A+ | 2018 – 2020 |
+| Jhenaidah Govt High School | Secondary School Certificate (SSC) | 2005 – 2018 |
+
+## 📜 Certifications
+
+- **Professional Ethics** · Udemy · May 2023 · [View certificate](https://www.udemy.com/certificate/UC-f1515a70-fc60-45e3-9e6f-b29a32270eb0)
+- **IC3 Digital Literacy Certification** · ICT Division, Bangladesh · Feb 2023 · Credential ID 89433545
+- **Google Ads Apps Certification** · Google · Jan 2023 (expired Jan 2024)
+
+## 🗣️ Languages
+
+English (native/bilingual) · Bengali (native) · Hindi (conversational)
+
+## 🧰 Skills
+
+**FiveM:** QBCore, Qbox, ESX, QBUS, Lua scripting, txAdmin, ox_inventory, MLOs, vehicles, phone apps, server optimization<br>
+**Servers & IT:** VPS, Windows Server, Remote Desktop, MySQL, MariaDB, SQL, database administration, server administration, troubleshooting, technical support, PC hardware, Discord community management<br>
+**Programming:** Lua, JavaScript, HTML, CSS, Java, C, Python, Dart/Flutter, Assembly<br>
+**Creative:** video editing, photo editing, poster design, Canva, Adobe Photoshop<br>
+**Learning:** Linux, DevOps, Docker, AWS and cloud systems
+
+## 💬 What clients say
+
+> "Tanvir Anjum is humble, very honest and supports the project he lays his hand on in a very holistic manner. Can recommend him any day any time."
+> — Md Rashedul Islam Chowdhury, client (LinkedIn recommendation, Oct 2023)
+
+## 🟢 Open to
+
+Freelance FiveM, server and IT projects · Game Developer and Virtual Assistant roles · Backend and DevOps roles
+
+## 🔗 All my links
+
+| | |
+|---|---|
+| 💼 Upwork | https://www.upwork.com/freelancers/~01e1089bdf8fb4c30d |
+| 🟩 Fiverr | https://www.fiverr.com/tanvir_anjum_n |
+| 🔵 Freelancer | https://www.freelancer.com/u/TAneon |
+| 👔 LinkedIn | https://linkedin.com/in/ta-neon |
+| 🛒 Shop (servers & scripts) | https://buymeacoffee.com/dxfivem/extras |
+| 🌐 Portfolio website | https://neon-dev.vercel.app |
+| 📄 GitHub Pages | https://mr-dx-dev.github.io |
+| ▶️ YouTube | https://www.youtube.com/@dx_fivem |
+| 💬 Discord server | https://discord.gg/V9st2cnhnm |
+| 📘 Facebook | https://facebook.com/TA5NEON |
+| 📸 Instagram | https://instagram.com/tanvir_anjum_neon |
+| 🐦 X / Twitter | https://twitter.com/taneon98 |
+| 🎮 Client server stores | [VIVID Roleplay](https://vividrp.tebex.io) · [Hearts Of Chicago](https://heartsofchicago.tebex.io) |
+
+
 ## 💼 Hire me:
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e1089bdf8fb4c30d) 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/tanvir_anjum_n) 
@@ -47,7 +132,7 @@ FiveM expert with 6 years of experience building, fixing and running roleplay se
 
 ## 🌐 Socials:
 <!-- [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/golamrabby5387)  -->
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/V9st2cnhnm) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/V9st2cnhnm) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TA5NEON) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanvir_anjum_neon) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ta-neon) 
